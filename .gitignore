@@ -24,3 +24,6 @@
 ._.DS_STORE
 *.rtf
 *.db
+*.obj
+*.mdl
+*.ms3d
